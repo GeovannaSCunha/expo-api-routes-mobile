@@ -70,5 +70,4 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     color: "#fff",
   },
-8=D
 })
